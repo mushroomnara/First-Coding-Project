@@ -17,14 +17,14 @@ body {
 .cards-container {
     display: flex;
     flex-direction: row;
-    gap: 24px;
+    gap: 32px;
     flex-wrap: nowrap;
     justify-content: center;
     align-items: flex-start;
 }
 
 .card {
-    background-color: #f2f1ed;
+    background-color: #f4f2ec;
     border-radius: 12px;
     padding: 40px 32px;
     width: 320px;
