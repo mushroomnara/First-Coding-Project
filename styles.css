@@ -24,10 +24,11 @@ body {
 }
 
 .card {
-    background-color: #f4f2ec;
+    background-color: #f3f1ee;
     border-radius: 12px;
-    padding: 40px 32px;
+    padding: 24px 24px;
     width: 320px;
+    min-height: 400px;
     flex-shrink: 0;
 }
 
